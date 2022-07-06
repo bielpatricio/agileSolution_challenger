@@ -1,0 +1,34 @@
+.salesHistory {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.forms {
+  width: 100%;
+  height: 100%;
+  min-height: 8rem;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.chartField {
+  max-width: 80rem;
+  max-height: 60rem;
+  align-items: top;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+  position: sticky;
+}
+.chartField h1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #111827;
+}
