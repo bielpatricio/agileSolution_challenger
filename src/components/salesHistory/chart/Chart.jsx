@@ -59,7 +59,9 @@ export function Chart(props) {
         </VictoryChart>
       ) : (
         <div className={styles.loading}>
-          <h1>Select a Product</h1>
+          <h1>
+            <strong>Select a Product</strong>
+          </h1>
         </div>
       )}
     </>

@@ -5,3 +5,7 @@
   justify-content: center;
   padding: 20rem;
 }
+
+.loading h1 strong {
+  color: #bae6fd;
+}
